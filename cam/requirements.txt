@@ -2,3 +2,4 @@ cv2
 flask
 requests
 socket
+gunicorn
